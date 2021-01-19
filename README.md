@@ -1,7 +1,7 @@
-# mycodeweb
+# JEU01_RPG
 ----
-Plusieurs petits jeux codés avec du javascript:
+Un jeu RPG basé sur un ancien TP d'OpenClassRooms(470482-creer-un-mini-rpg-en-javascript-avec-canvas).
 
-- Personnage sur une carte (2)
-- Jeu de cartes (MTG ou Pokémon LIKE)
-- Jeu de société: qui est-ce ?
+## Modifications apportées:
+- possiblité de changer de cartes (porte)
+- gestion de PV lors des déplacments
